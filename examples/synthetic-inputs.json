@@ -1,0 +1,95 @@
+[
+  {
+    "synthetic": true,
+    "case_id": "synthetic-case-001",
+    "source_id": "synthetic-source-001",
+    "original": "저는 오류가 난 상황을 재현해 원인을 좁히는 방식으로 문제를 해결합니다. 화면 개발 연습 프로젝트에서 입력 오류를 발견한 뒤, 오류가 나는 입력을 정리해 팀에 전달했습니다. 수정된 화면에 같은 입력을 다시 넣어 오류가 사라졌는지 확인했습니다. 지원 업무에서도 재현 조건을 팀과 공유하고 수정 후 같은 조건으로 확인하겠습니다.",
+    "question": {
+      "id": "synthetic-question-001",
+      "text": "문제를 해결한 경험과 그 경험을 지원 업무에 어떻게 활용할지 설명해 주세요."
+    },
+    "posting": {
+      "id": "synthetic-posting-001",
+      "text": "합성 공고: 화면 기능 개발과 오류 재현, 수정 후 동작 확인을 수행합니다. 입력 조건을 기록하고 팀과 공유하는 역량을 요구합니다."
+    },
+    "role_title": null,
+    "facts": [
+      {
+        "id": "synthetic-fact-001",
+        "text": "화면 개발 연습 프로젝트에 참여했다.",
+        "confirmed": true
+      },
+      {
+        "id": "synthetic-fact-002",
+        "text": "입력 오류 발견 후 재현 조건을 정리해 팀에 전달했다.",
+        "confirmed": true
+      },
+      {
+        "id": "synthetic-fact-003",
+        "text": "수정된 화면에서 같은 입력으로 오류가 사라졌는지 확인했다.",
+        "confirmed": true
+      }
+    ],
+    "change_scope": "검수만",
+    "constraints": {
+      "max": 250,
+      "min": 1,
+      "unit": "code-point",
+      "spaces": "include",
+      "title": "exclude",
+      "line_breaks": "include",
+      "crlf": "two-characters"
+    }
+  },
+  {
+    "synthetic": true,
+    "case_id": "synthetic-case-002",
+    "source_id": "synthetic-source-002",
+    "original": "저는 오류가 난 상황을 재현해 원인을 좁히는 방식으로 문제를 해결합니다. 화면 개발 연습 프로젝트에서 입력 오류를 발견한 뒤, 오류가 나는 입력을 정리해 팀에 전달했습니다. 수정된 화면에 같은 입력을 다시 넣어 오류가 사라졌는지 확인했습니다. 지원 업무에서도 재현 조건을 팀과 공유하고 수정 후 같은 조건으로 확인하겠습니다.",
+    "question": null,
+    "posting": null,
+    "role_title": null,
+    "facts": null,
+    "change_scope": "검수만",
+    "constraints": null
+  },
+  {
+    "synthetic": true,
+    "case_id": "synthetic-case-003",
+    "source_id": "synthetic-source-003",
+    "original": "저는 오류가 난 상황을 재현해 원인을 좁히는 방식으로 문제를 해결합니다. 화면 개발 연습 프로젝트에서 입력 오류를 발견한 뒤, 오류가 나는 입력을 정리해 팀에 전달했습니다. 수정된 화면에 같은 입력을 다시 넣어 오류가 사라졌는지 확인했습니다. 지원 업무에서도 재현 조건을 팀과 공유하고 수정 후 같은 조건으로 확인하겠습니다.",
+    "question": {
+      "id": "synthetic-question-001",
+      "text": "문제를 해결한 경험과 그 경험을 지원 업무에 어떻게 활용할지 설명해 주세요."
+    },
+    "posting": null,
+    "role_title": "화면 개발",
+    "facts": [
+      {
+        "id": "synthetic-fact-001",
+        "text": "화면 개발 연습 프로젝트에 참여했다.",
+        "confirmed": true
+      },
+      {
+        "id": "synthetic-fact-002",
+        "text": "입력 오류 발견 후 재현 조건을 정리해 팀에 전달했다.",
+        "confirmed": true
+      },
+      {
+        "id": "synthetic-fact-003",
+        "text": "수정된 화면에서 같은 입력으로 오류가 사라졌는지 확인했다.",
+        "confirmed": true
+      }
+    ],
+    "change_scope": "검수만",
+    "constraints": {
+      "max": 250,
+      "min": 1,
+      "unit": "code-point",
+      "spaces": "include",
+      "title": "exclude",
+      "line_breaks": "include",
+      "crlf": "two-characters"
+    }
+  }
+]

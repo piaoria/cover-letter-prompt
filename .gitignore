@@ -1,0 +1,25 @@
+# 실제 자료, 비공개 평가, 인증정보는 공개하지 않는다.
+private/
+local-inputs/
+evaluations/
+reports/
+raw/
+uploads/
+.env*
+credentials*
+secrets*
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+*.log
+*.jsonl
+*.docx
+*.pdf
+*.xlsx
+*.zip
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
